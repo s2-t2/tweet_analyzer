@@ -12,7 +12,11 @@ The goal of this project is to construct a compute-service based on distributed 
 ### Demo/screenshots
 
 #### Running Celery worker 
+![Running celery worker](images/running_celery_worker.png "Running celery worker")
 
 #### Service endpoint
+![Service endpoint](images/url_result.png "Service endpoint")
 
 #### Data visualization of frequency of pronouns mentions
+![Data Visualization](images/prononuns_visualization.png "Data visualization")
+
